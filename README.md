@@ -122,3 +122,14 @@ AdaLIN自适应层级归一化函数：帮助我们在不改变网络架构的�
 
 ### 总结
 &emsp;&emsp;总之，目前网络跑通但是依然存在一些不足。目前训练的最长迭代次数约为6.5w，与作者论文中的100w相差甚远。目前网络训练结果与pytorch版本有些差距，可能依然存在参数未能对其的情况，仍需要找到原因。
+
+
+### 当前运行效果
+![](images/A2B_1.png)
+![](images/A2B_2.png)
+![](images/A2B_3.png)
+![](images/A2B_4.png)
+![](images/A2B_5.png)
+![](images/A2B_6.png)
+### 对比
+![](images/contrast45.jpg)
